@@ -14,7 +14,7 @@ def reconstruct_trip(tickets, length):
     for t in tickets:
         end[t.destination] = t.source
     for t in tickets:
-        
+        pass
     print(end)
         
     # Your code here
